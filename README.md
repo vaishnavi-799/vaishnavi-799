@@ -40,6 +40,8 @@
 
 ⭐ "Consistency is more important than perfection"
 
-### 🔥 GitHub Streak
+### 📈 Contribution Graph
 
-### 📊 GitHub Stats ![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavi-799&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-799&theme=tokyo-night" />
+</p>
