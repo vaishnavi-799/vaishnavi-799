@@ -39,3 +39,9 @@
 ---
 
 ⭐ "Consistency is more important than perfection"
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vaishnavi-799&theme=tokyonight" />
+</p>
