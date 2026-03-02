@@ -27,10 +27,11 @@
 
 ---
 
-### 📫 links
-- 💼 LinkedIn: ([add your link](https://www.linkedin.com/in/vaishnavi-gurramkonda-b19a29324/))
-- 📧 Email: (vaishnavigurramkonda04@gmail.com)
-- 💻 GeeksforGeeks: ([vaishnavigurramkonda04@gmail.com](https://www.geeksforgeeks.org/profile/vaishnavigurxad8))
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-gurramkonda-b19a29324/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/vaishnavigurxad8)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:vaishnavigurramkonda04@gmail.com)
 
 ---
 
