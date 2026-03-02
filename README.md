@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vaishnavi Gurramkonda</h1>
+<h3 align="center">B.Tech Student | ML Enthusiast | Full Stack Developer</h3>
 
-<!--
-**vaishnavi-799/vaishnavi-799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍🎓 About Me
+- 🎓 B.Tech Student
+- 🤖 Interested in Machine Learning & AI
+- 💻 Full Stack Developer
+- 🚀 Currently working on NLP
+- 📚 Learning DSA & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=c++,java,html,css,js,bootstrap,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 🚀 Projects
+- 🛒 E-commerce Full Stack Project
+- 📊 Student Skill Gap Analyzer
+- 🤖 E-Waste Sorting System 
+- 🧮 job prediction of student
+
+---
+
+### 📫 links
+- 💼 LinkedIn: ([add your link](https://www.linkedin.com/in/vaishnavi-gurramkonda-b19a29324/))
+- 📧 Email: (vaishnavigurramkonda04@gmail.com)
+- 💻 GeeksforGeeks: ([vaishnavigurramkonda04@gmail.com](https://www.geeksforgeeks.org/profile/vaishnavigurxad8))
+
+---
+
+⭐ "Consistency is more important than perfection"
