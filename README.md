@@ -1,3 +1,4 @@
+![Banner](GitHubBanner.png)
 <h1 align="center">Hi 👋, I'm Vaishnavi Gurramkonda</h1>
 <h3 align="center">B.Tech Student | ML Enthusiast | Full Stack Developer</h3>
 
