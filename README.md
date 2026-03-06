@@ -26,7 +26,7 @@
 - 🛒 E-commerce Full Stack Project
 - 📊 Student Skill Gap Analyzer
 - 🤖 E-Waste Sorting System 
-- 🧮 job prediction of student
+
 
 ---
 
