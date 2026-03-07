@@ -29,6 +29,30 @@
 
 
 ---
+🏆 Hackathons & Workshops
+
+💡 National Hackathon
+       JNTUH UCE Sultanpur
+       April 2025
+
+🌱 Harithon Eco Hackathon
+     JNTUH UCE Sultanpur
+     2025
+
+⚙️ National Workshop on DevOps
+     JNTUH UCE Sultanpur
+     March 2025
+
+🤖 Generative AI Workshop
+     IIT Hyderabad
+
+---
+📜 Certifications
+
+   SQL (Basic) Certificate – HackerRank
+   https://www.hackerrank.com/certificates/e483728e63d8
+
+---
 
 ## 🌐 Connect With Me
 
