@@ -29,7 +29,8 @@
 
 
 ---
-🏆 Hackathons & Workshops
+
+### 🏆 Hackathons & Workshops
 
 💡 National Hackathon
        JNTUH UCE Sultanpur
@@ -47,10 +48,10 @@
      IIT Hyderabad
 
 ---
-📜 Certifications
+### 📜 Certifications
 
    SQL (Basic) Certificate – HackerRank
-   https://www.hackerrank.com/certificates/e483728e63d8
+   link-https://www.hackerrank.com/certificates/e483728e63d8
 
 ---
 
