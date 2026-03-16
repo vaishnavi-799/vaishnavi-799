@@ -54,7 +54,7 @@
    link-https://www.hackerrank.com/certificates/e483728e63d8
    
    Problem Solving - HeckerRank
-   link-https://www.hackerrank.com/certificates/e483728e63d8
+   link-https://www.hackerrank.com/certificates/iframe/3f4eaded1060
 
    
 ---
