@@ -52,10 +52,14 @@
 
    SQL (Basic) Certificate – HackerRank
    link-https://www.hackerrank.com/certificates/e483728e63d8
+   
+   Problem Solving - HeckerRank
+   link-https://www.hackerrank.com/certificates/e483728e63d8
 
+   
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-gurramkonda-b19a29324/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/vaishnavigurxad8)
