@@ -64,7 +64,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-gurramkonda-b19a29324/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/vaishnavigurxad8)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:vaishnavigurramkonda04@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a4a8e?logo=google-chrome&logoColor=white)]([https://your-portfolio-link.com](https://vaishnavi-799.github.io/vaishnavigurramkonda.github.io/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a4a8e?logo=google-chrome&logoColor=white)](https://vaishnavi-799.github.io/vaishnavigurramkonda.github.io/)
 
 ---
 
