@@ -6,26 +6,26 @@
 
 ---
 
-### 👩‍🎓 About Me
-- 🎓 B.Tech Student
-- 🤖 Interested in Machine Learning & AI
-- 💻 Full Stack Developer
-- 🚀 Currently working on NLP
-- 📚 Learning DSA & Algorithms
+### About Me
+-  B.Tech Student
+   Interested in Machine Learning & AI
+-  Full Stack Developer
+-  Currently working on NLP
+-  Learning DSA & Algorithms
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 <p>
 <img src="https://skillicons.dev/icons?i=c++,html,css,js,bootstrap,mongodb" />
 </p>
 
 ---
 
-### 🚀 Projects
-- 🛒 E-commerce Full Stack Project
-- 📊 Student Skill Gap Analyzer
-- 🤖 E-Waste Sorting System 
+###  Projects
+-  ML Technical FAQ Chatbot
+-  Product Reccomendation-Ecommerce
+-  Contact Book Web Application
 
 
 ---
