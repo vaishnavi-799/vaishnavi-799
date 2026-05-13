@@ -30,25 +30,25 @@
 
 ---
 
-### 🏆 Hackathons & Workshops
+### Hackathons & Workshops
 
-💡 National Hackathon
+ National Hackathon
        JNTUH UCE Sultanpur
        April 2025
 
-🌱 Harithon Eco Hackathon
+ Harithon Eco Hackathon
      JNTUH UCE Sultanpur
      2025
 
-⚙️ National Workshop on DevOps
+ National Workshop on DevOps
      JNTUH UCE Sultanpur
      March 2025
 
-🤖 Generative AI Workshop
+ Generative AI Workshop
      IIT Hyderabad
 
 ---
-### 📜 Certifications
+###  Certifications
 
    SQL (Basic) Certificate – HackerRank
    link-https://www.hackerrank.com/certificates/e483728e63d8
@@ -59,7 +59,7 @@
    
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-gurramkonda-b19a29324/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/vaishnavigurxad8)
@@ -68,9 +68,9 @@
 
 ---
 
-⭐ "Consistency is more important than perfection"
+ "Consistency is more important than perfection"
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-799&theme=tokyo-night" />
