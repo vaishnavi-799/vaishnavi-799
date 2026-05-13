@@ -29,12 +29,11 @@
 
 
 ---
-### Achievement
-- NPTEL Elite Certification: Neural Networks for Computer Vision and NLP (IIT Guwahati)
-   Score: 90%
-   Duration: Jan–Apr 2026
-  - 
- ---   
+###  Achievement
+- NPTEL Elite Certification: Neural Networks for Computer Vision and NLP (IIT Guwahati) Score: 90%
+  
+---
+ 
 ### Hackathons & Workshops
 
  National Hackathon
