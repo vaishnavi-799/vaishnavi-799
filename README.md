@@ -8,8 +8,7 @@
 
 ### About Me
 -  B.Tech Student
-   Interested in Machine Learning & AI
--  Full Stack Developer
+-  Interested in Generative AI
 -  Currently working on NLP
 -  Learning DSA & Algorithms
 
@@ -24,7 +23,6 @@
 
 ###  Projects
 -  ML Technical FAQ Chatbot
--  Product Reccomendation-Ecommerce
 -  Contact Book Web Application
 
 
@@ -35,7 +33,9 @@
 ---
  
 ### Hackathons & Workshops
-
+ Generative AI Workshop
+     IIT Hyderabad
+     
  National Hackathon
        JNTUH UCE Sultanpur
        April 2025
@@ -48,18 +48,18 @@
      JNTUH UCE Sultanpur
      March 2025
 
- Generative AI Workshop
-     IIT Hyderabad
+
 
 ---
 ###  Certifications
 
-   SQL (Basic) Certificate – HackerRank
-   link-https://www.hackerrank.com/certificates/e483728e63d8
+   
    
    Problem Solving - HeckerRank
    link-https://www.hackerrank.com/certificates/iframe/3f4eaded1060
 
+   SQL (Basic) Certificate – HackerRank
+   link-https://www.hackerrank.com/certificates/e483728e63d8
    
 ---
 
