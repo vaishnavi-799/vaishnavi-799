@@ -2,7 +2,7 @@
   <img src="GitHubBanner.png" />
 </p>
 <h1 align="center">Hi 👋, I'm Vaishnavi Gurramkonda</h1>
-<h3 align="center">B.Tech Student | ML Enthusiast | Full Stack Developer</h3>
+<h3 align="center">B.Tech Student | Gen AI Enthusiast | Web Developer</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 -  B.Tech Student
 -  Interested in Generative AI
 -  Currently working on NLP
--  Learning DSA & Algorithms
+-  Learning DSA 
 
 ---
 
@@ -22,14 +22,14 @@
 ---
 
 ###  Projects
--  ML Technical FAQ Chatbot
+- Online Attendance Time Tracking Portal
 -  Contact Book Web Application
 
 
 ---
 ###  Achievement
 - NPTEL Elite Certification: Neural Networks for Computer Vision and NLP (IIT Guwahati) Score: 90%
-  
+
 ---
  
 ### Hackathons & Workshops
@@ -58,8 +58,8 @@
    Problem Solving - HeckerRank
    link-https://www.hackerrank.com/certificates/iframe/3f4eaded1060
 
-   SQL (Basic) Certificate – HackerRank
-   link-https://www.hackerrank.com/certificates/e483728e63d8
+  Problem Solving (Basic) Certificate – HackerRank
+   link-https://www.hackerrank.com/certificates/3f4eaded1060
    
 ---
 
