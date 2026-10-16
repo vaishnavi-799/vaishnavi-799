@@ -7,23 +7,24 @@
 ---
 
 ### About Me
--  B.Tech Student
+- 🎓 B.Tech in Computer Science and Engineering (2023–2027)
 -  Interested in Generative AI
--  Currently working on NLP
--  Learning DSA 
+-  Building full-stack applications
+-  Learning DSA and AI tools
 
 ---
 
 ###  Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=c++,html,css,js,bootstrap,mongodb" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,bootstrap,nodejs,express,mongodb,postgres,mysql,git,github,vscode" />
 </p>
 
 ---
 
 ###  Projects
-- Online Attendance Time Tracking Portal
+-  Smart Enterprise Work Management Platform
 -  Contact Book Web Application
+- AI-Powered Chatbot
 
 
 ---
@@ -73,10 +74,4 @@
 
 ---
 
- "Consistency is more important than perfection"
 
-###  Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-799&theme=tokyo-night" />
-</p>
