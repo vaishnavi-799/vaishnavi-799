@@ -14,10 +14,14 @@
 
 ---
 
-###  Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,bootstrap,nodejs,express,mongodb,postgres,mysql,git,github,vscode" />
-</p>
+### Technical Skills
+
+- **Programming Languages:** C++, Python
+- **Frontend Development:** HTML, CSS, Bootstrap, JavaScript
+- **Backend Development:** Node.js, Express.js
+- **Databases:** MongoDB, SQL
+- **Machine Learning:** NumPy, Pandas, Scikit-learn
+- **Tools & Automation:** Git, GitHub, n8n
 
 ---
 
